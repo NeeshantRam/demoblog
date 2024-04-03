@@ -1,0 +1,122 @@
+nav {
+  background-color: #eaebeb;
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+#Ocem {
+  color: #009aca;
+}
+.logo {
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+}
+.navbar {
+  display: flex;
+  margin-left: 45%;
+  justify-content: space-between;
+}
+.navbar li {
+  padding-left: 40px;
+  list-style: none;
+}
+.navbar li a {
+  color: black;
+  text-decoration: none;
+}
+.bodypart {
+  background-color: #eaebeb;
+  margin-top: 0px;
+}
+.mainbody {
+  margin-left: 100px;
+  display: flex;
+}
+.detail {
+  margin-top: 50px;
+}
+button {
+  color: white;
+  padding: 7px;
+  height: 30px;
+  width: 100px;
+  border: 0px;
+  background-color: #3c4143;
+  border-radius: 20px;
+}
+button:hover {
+  cursor: pointer;
+}
+/*Articles*/
+.articles {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+.articles h2 {
+  color: #009aca;
+}
+.articlesection img {
+  height: 300px;
+}
+.articlesection {
+  margin-top: 30px;
+  display: flex;
+  gap: 70px;
+  flex-wrap: wrap;
+}
+/*Wnat to keep*/
+.Want {
+  align-items: center;
+  margin-left: 100px;
+  display: flex;
+}
+section {
+  margin-top: 80px;
+  background-color: #eaebeb;
+}
+h3 {
+  font-size: 25px;
+}
+.inputarea {
+  margin-left: 40%;
+}
+.inputarea input {
+  padding-left: 10px;
+  border-radius: 5px;
+  height: 28px;
+  margin: 10px;
+  border: 0px;
+}
+/*Footer*/
+.Footer {
+  margin-top: 80px;
+  background-color: #eaebeb;
+  height: 150px;
+  width: 100%;
+}
+.maindivfooter {
+  display: flex;
+  gap: 150px;
+}
+li {
+  list-style: none;
+}
+h4 {
+  margin-bottom: 4px;
+}
+.copyright {
+  margin-top: -17px;
+  color: white;
+  font-size: 15px;
+  height: 35px;
+  background-color: #9fbdbd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.copyright p {
+  padding: 10px;
+}
